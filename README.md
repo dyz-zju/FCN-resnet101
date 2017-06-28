@@ -22,7 +22,7 @@ Program used tensorflow.
 
 
 ## Test
-1. You need to prepare the resnet101 pretrained model at first or you have trained the model.
+1. You need to prepare the resnet101 pretrained model same as the procedure in "Train" at first or you have trained the model.
 2. Put your test pictures in the ./test/demo/ with the format ".jpg" or ".png"
 3. Run test.py
 
