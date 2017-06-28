@@ -1,7 +1,7 @@
 # FCN-resnet101
 
 This project uses resnet101 to extract features and do semantic segmentation.
-Program is written by tensorflow
+Program used tensorflow.
 
 ## TODO
 - [x] Use resnet101 pretrained model
