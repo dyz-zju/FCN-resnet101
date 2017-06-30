@@ -38,31 +38,30 @@ or you can just download from https://www.dropbox.com/s/7n0sr0m3b9u1ua5/VOC2012_
 
 
 ## Results
-On the Pascal Voc Evaluation Server2012
+On the Pascal Voc Evaluation Server2012    
 Classes | IoU Accuracy(%)
 ------------ | -------------
-aeroplane | 39.89
-bicycle | 12.33
-bird | 17.44
-boat | 20.65
-bottle | 31.75
-bus | 53.09
-car | 42.74
-cat | 39.52
-chair | 4.50
-cow | 10.25
-diningtable | 13.39
-dog | 30.72
-horse | 21.71
-motorbike | 44.96
-person | 48.20
-potted-plant | 16.15
-sheep | 27.89
-sofa | 19.56
-train | 36.80
-tv/monitor | 30.94
-mean accuracy | 30.84
+aeroplane | 39.89    
+bicycle | 12.33    
+bird | 17.44    
+boat | 20.65    
+bottle | 31.75    
+bus | 53.09          
+car | 42.74      
+cat | 39.52      
+chair | 4.50         
+cow | 10.25         
+diningtable | 13.39         
+dog | 30.72         
+horse | 21.71           
+motorbike | 44.96         
+person | 48.20         
+potted-plant | 16.15             
+sheep | 27.89              
+sofa | 19.56        
+train | 36.80               
+tv/monitor | 30.94         
+mean accuracy | 30.84       
 
-## Tensorboard
 
 
