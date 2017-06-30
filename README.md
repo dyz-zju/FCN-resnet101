@@ -6,6 +6,7 @@ Program used tensorflow.
 ## TODO
 - [x] Use resnet101 pretrained model
 - [x] Input can be in any size(just in the test and eval task)
+- [x] Data augmentation(only horizontal flip)
 - [x] Train on the PASCAL VOC2012 train data 
 - [x] Evaluate in the PASCAL VOC2012 validate data
 
@@ -37,29 +38,30 @@ or you can just download from https://www.dropbox.com/s/7n0sr0m3b9u1ua5/VOC2012_
 
 
 ## Results
+On the Pascal Voc Evaluation Server2012
 Classes | IoU Accuracy(%)
 ------------ | -------------
-aeroplane | 0
-bicycle | 0
-bird | 0
-boat | 0
-bottle | 0
-bus | 0
-car | 0
-cat | 0
-chair | 0
-cow | 0
-diningtable | 0
-dog | 0
-horse | 0
-motorbike | 0
-person | 0
-potted-plant | 0
-sheep | 0
-sofa | 0
-train | 0
-tv/monitor | 0
-mean accuracy | 0
+aeroplane | 39.89
+bicycle | 12.33
+bird | 17.44
+boat | 20.65
+bottle | 31.75
+bus | 53.09
+car | 42.74
+cat | 39.52
+chair | 4.50
+cow | 10.25
+diningtable | 13.39
+dog | 30.72
+horse | 21.71
+motorbike | 44.96
+person | 48.20
+potted-plant | 16.15
+sheep | 27.89
+sofa | 19.56
+train | 36.80
+tv/monitor | 30.94
+mean accuracy | 30.84
 
 ## Tensorboard
 
