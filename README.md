@@ -39,6 +39,7 @@ or you can just download from https://www.dropbox.com/s/7n0sr0m3b9u1ua5/VOC2012_
 
 ## Results
 On the Pascal Voc Evaluation Server2012    
+
 Classes | IoU Accuracy(%)
 ------------ | -------------
 aeroplane | 39.89    
